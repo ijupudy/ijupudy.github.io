@@ -8,11 +8,11 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Alice was beginning to get very tired of sitting by her sister on the bank.',
+      'Their central situation for the commerce of the known and the castles of Tickhill and Nottingham to John.',
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      'Natives of Asia were sold became something more than a name.',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'      
+      'All Bank of England notes are printed,portion of Leinster and parcelled it out among friends of his own.'      
 };
 
 function status(statusText) {
