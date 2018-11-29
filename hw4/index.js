@@ -8,11 +8,11 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Their central situation for the commerce of the known and the castles of Tickhill and Nottingham to John.',
-  'example2':
       'Natives of Asia were sold became something more than a name.',
+  'example2':
+      'This work was so neatly and deftly water runs clear and unsullied, a bleaching material is put into the water is turned in at one end, the knife-roll having been adjusted so the legates on February 17 (1187)',
   'example3':
-      'All Bank of England notes are printed,portion of Leinster and parcelled it out among friends of his own.'      
+      'Their central situation for the commerce of the known and the castles of Tickhill and Nottingham to John.'      
 };
 
 function status(statusText) {
